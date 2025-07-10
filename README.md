@@ -1,0 +1,2 @@
+# codealpha task3 car price prediction 
+This project focuses on developing a machine learning model that can accurately predict the price of a car based on its technical specifications and features.  The dataset includes various car attributes like engine size, horsepower, fuel type, body style, and brand, which significantly influence the car's market price. We use this information to train a Linear Regression model that learns the relationships between these features and the car price.
