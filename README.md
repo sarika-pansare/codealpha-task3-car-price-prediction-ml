@@ -1,7 +1,7 @@
 
- 
-*🚗 Car Price Prediction using Machine Learning
+🚗 Car Price Prediction using Machine Learning
 (Task 3 – CodeAlpha Data Science Internship)*
+
 
 
 📄 Project Overview
@@ -115,7 +115,9 @@
   The script will generate:
              Performance metrics (R² score and MSE)
             A scatter plot comparing actual vs predicted car prices
-8. Conclusion
+
+            
+ Conclusion:
        This project demonstrates a complete pipeline for predicting car prices using linear regression. It involved data cleaning, feature extraction, model training, and evaluation, along with insightful visualizations. The process        only provides a solid foundation in predictive modeling but also opens avenues for exploring more complex models and real-world deployment.
 
 
