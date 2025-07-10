@@ -1,7 +1,7 @@
 
  
-🚗 Car Price Prediction using Machine Learning
-(Task 3 – CodeAlpha Data Science Internship)
+*🚗 Car Price Prediction using Machine Learning
+(Task 3 – CodeAlpha Data Science Internship)*
 
 
 📄 Project Overview
