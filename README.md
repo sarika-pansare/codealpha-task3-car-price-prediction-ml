@@ -98,7 +98,7 @@
       Clone the Repository:
        bash
          code
-       git clone https://github.com/your-username/Car_Price_Prediction.git
+       git clone https://github.com/sarika-pansare/Car_Price_Prediction.git
       cd Car_Price_Prediction
        Install Dependencies:
       Make sure you have Python 3.x installed and the following libraries:
